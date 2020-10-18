@@ -14,8 +14,8 @@ Setup Guide:
 
 Make sure you have Node.js installed on your pc: https://bit.ly/31jwOdK (DO NOT USE NODE VERSION "14")
 
-Step [1] - Open the config.json file with a text editor and put your token and the default bot prefix (You can change it anytime by using the command: "setprefix [NewPrefix]"     
-Step [2] - Open a cmd terminal, browse to the bot location and run: npm i (This will install all the needed node modules]                                                           
+Step [1] - Open the config.json file with a text editor and put your token and the default bot prefix                                                                               
+Step [2] - Open a cmd terminal, browse to the bot location and run: npm i (This will install all the needed node modules)                                                           
 Step [3] - In the same cmd terminal type and run: node index.js (This will start the discord bot)                                                                                   
 Step [4] - Invite your bot into your guild.                                                                                                                                         
 Step [5] - Run the: "Setup" command to setup the auth.gg "API KEY"                                                                                                                 
@@ -29,5 +29,8 @@ F.A.Q:
 
 Q - Where i can get the bot token?
 A - Visit: https://discord.com/developers/applications
+
+Q - How can i change the bot prefix?
+A - Use the: "setprefix" command.
 
 I'll add more soon...
