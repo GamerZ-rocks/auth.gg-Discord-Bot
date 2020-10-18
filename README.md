@@ -1,5 +1,5 @@
 # auth.gg-Discord-Bot
-An open source bot for the auth system named: auth.gg | https://auth.gg/
+An open source discord bot for the auth system named: auth.gg | https://auth.gg/
 
 
 Hey, Make sure to leave a star before downloading the source, it takes you few moments and it supports me a lot.
@@ -23,3 +23,10 @@ Step [5] - Run the: "help" command to get a list of all the bot commands.
 If you need support Join the auth.gg discord server and hmu in dms: https://discord.com/invite/jJB9zBV | vittiwolf#1337
 
 Enjoy
+
+F.A.Q:
+
+Q - Where i can get the bot token?
+A - Visit: https://discord.com/developers/applications
+
+I'll add more soon...
